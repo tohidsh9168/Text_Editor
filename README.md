@@ -1,0 +1,1 @@
+In this project I’ve developed a text editor application using Java and JFrame.In which user can edit text file with using various options and can save the changes and edit existing file and many more features were added to this Project.
